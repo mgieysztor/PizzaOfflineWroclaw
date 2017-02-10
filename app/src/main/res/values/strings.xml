@@ -1,0 +1,2528 @@
+<resources>
+    <string name="app_name">PizzaOfflineWroclaw</string>
+
+    <string-array name="streets">
+        <item>Abrahama</item>
+        <item>Abramowskiego</item>
+        <item>Adamczewskich</item>
+        <item>Adamieckiego</item>
+        <item>Admiralska</item>
+        <item>Afgańska</item>
+        <item>Agatowa</item>
+        <item>Agrestowa</item>
+        <item>Agrestowa</item>
+        <item>Akacjowa</item>
+        <item>Alberta</item>
+        <item>Aleja Śląska</item>
+        <item>Aliancka</item>
+        <item>Alpejska</item>
+        <item>Altanowa</item>
+        <item>Ałunowa</item>
+        <item>Amarantowa</item>
+        <item>Ametystowa</item>
+        <item>Ananasowa</item>
+        <item>Anczyca</item>
+        <item>Angielska</item>
+        <item>Anielewicza</item>
+        <item>Anny</item>
+        <item>Antoniego</item>
+        <item>Anyżowa</item>
+        <item>Aptekarska</item>
+        <item>Arabska</item>
+        <item>Arachidowa</item>
+        <item>Arbuzowa</item>
+        <item>Archeologów</item>
+        <item>Arctowskiego</item>
+        <item>Armii Krajowej</item>
+        <item>Armii Ludowej</item>
+        <item>Arrasowa</item>
+        <item>Artyleryjska</item>
+        <item>Asfaltowa</item>
+        <item>Asnyka</item>
+        <item>Astrowa</item>
+        <item>Augustowska</item>
+        <item>Australijska</item>
+        <item>Austriacka</item>
+        <item>Awicenny</item>
+        <item>Azaliowa</item>
+        <item>Babiego Lata</item>
+        <item>Babimojska</item>
+        <item>Bacciarellego</item>
+        <item>Bacha</item>
+        <item>Baczyńskiego</item>
+        <item>Badury</item>
+        <item>Bagatela</item>
+        <item>Bajana</item>
+        <item>Balladyny</item>
+        <item>Balonowa</item>
+        <item>Balzaka</item>
+        <item>Bałkańska</item>
+        <item>Bałtycka</item>
+        <item>Bałuckiego</item>
+        <item>Banacha</item>
+        <item>Bandtkiego</item>
+        <item>Baranowicka</item>
+        <item>Baranowskiego</item>
+        <item>Barbary</item>
+        <item>Barczewska</item>
+        <item>Bardzka</item>
+        <item>Barlickiego</item>
+        <item>Bartla</item>
+        <item>Bartnicza</item>
+        <item>Bartoszowicka</item>
+        <item>Barwinkowa</item>
+        <item>Barycka</item>
+        <item>Baskijska</item>
+        <item>Baudouina de Courtenay</item>
+        <item>Bazaltowa</item>
+        <item>Bazyliowa</item>
+        <item>Bażancia</item>
+        <item>Bąka</item>
+        <item>Becka</item>
+        <item>Bednarska</item>
+        <item>Belgijska</item>
+        <item>Belgradzka</item>
+        <item>Belwederczyków</item>
+        <item>Bełzy</item>
+        <item>Bema</item>
+        <item>Bema</item>
+        <item>Benedyktyńska</item>
+        <item>Bengalska</item>
+        <item>Beniowskiego</item>
+        <item>Berberysowa</item>
+        <item>Berenta</item>
+        <item>Berlinga</item>
+        <item>Bernardyńska</item>
+        <item>Beskidzka</item>
+        <item>Beyzyma</item>
+        <item>Bezpieczna</item>
+        <item>Beżowa</item>
+        <item>Będkowska</item>
+        <item>Będzińska</item>
+        <item>Biała</item>
+        <item>Białodrzewna</item>
+        <item>Białogardzka</item>
+        <item>Białoruska</item>
+        <item>Białoskórnicza</item>
+        <item>Białostocka</item>
+        <item>Białoszewskiego</item>
+        <item>Białowieska</item>
+        <item>Biały Kąt</item>
+        <item>Biały Kąt</item>
+        <item>Białych Goździków</item>
+        <item>Biegasa</item>
+        <item>Biegła</item>
+        <item>Bielarska</item>
+        <item>Bielawska</item>
+        <item>Bierdzańska</item>
+        <item>Bierutowska</item>
+        <item>Bierzycka</item>
+        <item>Bieszczadzka</item>
+        <item>Biłgorajska</item>
+        <item>Birmańska</item>
+        <item>Biskupia</item>
+        <item>Biwakowa</item>
+        <item>Blacharska</item>
+        <item>Bliska</item>
+        <item>Blizanowicka</item>
+        <item>Bliźniacza</item>
+        <item>Bławatna</item>
+        <item>Błękitna</item>
+        <item>Błońska</item>
+        <item>Błotna</item>
+        <item>Bobrza</item>
+        <item>Bobrzańska</item>
+        <item>Bocheńska</item>
+        <item>Bocheńskiego</item>
+        <item>Bociania</item>
+        <item>Boczna</item>
+        <item>Bogedaina</item>
+        <item>Bogusławskiego</item>
+        <item>Boguszewskiej</item>
+        <item>Boguszowska</item>
+        <item>Bohaterów Getta</item>
+        <item>Boiskowa</item>
+        <item>Bojanowska</item>
+        <item>Bolesława Chrobrego</item>
+        <item>Bolesława Krzywoustego</item>
+        <item>Bolesławiecka</item>
+        <item>Bolkowska</item>
+        <item>Bołtucia</item>
+        <item>Bombardierska</item>
+        <item>Bonczyka</item>
+        <item>Bora-Komorowskiego</item>
+        <item>Borelowskiego</item>
+        <item>Borna</item>
+        <item>Borowska</item>
+        <item>Borowska</item>
+        <item>Borówczana</item>
+        <item>Botaniczny</item>
+        <item>Boya-Żeleńskiego</item>
+        <item>Boznańskiej</item>
+        <item>Bożego Ciała</item>
+        <item>Brahmsa</item>
+        <item>Brandta</item>
+        <item>Braniborska</item>
+        <item>Braniewska</item>
+        <item>Braterska</item>
+        <item>Bratkowa</item>
+        <item>Bratysławska</item>
+        <item>Brązowa</item>
+        <item>Brochowska</item>
+        <item>Brochowska</item>
+        <item>Brodnicka</item>
+        <item>Brodzińskiego</item>
+        <item>Brodzka</item>
+        <item>Brodzka</item>
+        <item>Broniewskiego</item>
+        <item>Brossa</item>
+        <item>Browarna</item>
+        <item>Brücknera</item>
+        <item>Brylantowa</item>
+        <item>Brynicka</item>
+        <item>Brzechwy</item>
+        <item>Brzeska</item>
+        <item>Brzezińska</item>
+        <item>Brzoskwiniowa</item>
+        <item>Brzostowska</item>
+        <item>Brzozowa</item>
+        <item>Brzóski</item>
+        <item>Buczacka</item>
+        <item>Budowlana</item>
+        <item>Budziszyńska</item>
+        <item>Buforowa</item>
+        <item>Buforowa</item>
+        <item>Buforowa</item>
+        <item>Bujna</item>
+        <item>Bujwida</item>
+        <item>Bukowa</item>
+        <item>Bukowicka</item>
+        <item>Bukowskiego</item>
+        <item>Bulwar kard. Stefana Wyszyńskiego</item>
+        <item>Bulwar ks. Aleksandra Zienkiewicza</item>
+        <item>Bulwar Piotra Włostowica</item>
+        <item>Bulwar prof. Józefa Zwierzyckiego</item>
+        <item>Bulwar prof. Stanisława Kulczyńskiego</item>
+        <item>Bulwar Tadka Jasińskiego</item>
+        <item>Bułgarska</item>
+        <item>Buraczana</item>
+        <item>Bursztynowa</item>
+        <item>Burzowa</item>
+        <item>Buska</item>
+        <item>Byczyńska</item>
+        <item>Bydgoska</item>
+        <item>Bystra</item>
+        <item>Bystrzycka</item>
+        <item>Bystrzycka</item>
+        <item>Bytomska</item>
+        <item>Bytowska</item>
+        <item>Bzowa</item>
+        <item>Bzowy</item>
+        <item>Cabaja</item>
+        <item>Canaletta</item>
+        <item>Cedrowa</item>
+        <item>Cegielskiego</item>
+        <item>Ceglana</item>
+        <item>Celtycka</item>
+        <item>Cementowa</item>
+        <item>Centralna</item>
+        <item>Cerekwicka</item>
+        <item>Cesarzowicka</item>
+        <item>Chabrowa</item>
+        <item>Chałubińskiego</item>
+        <item>Chałupnicza</item>
+        <item>Charkowska</item>
+        <item>Chełmońskiego</item>
+        <item>Chełmońskiego</item>
+        <item>Chełmska</item>
+        <item>Chemiczna</item>
+        <item>Chęcińska</item>
+        <item>Chińska</item>
+        <item>Chlebowa</item>
+        <item>Chłodna</item>
+        <item>Chłopska</item>
+        <item>Chmielarska</item>
+        <item>Chmielna</item>
+        <item>Chmurna</item>
+        <item>Chobieńska</item>
+        <item>Chociebuska</item>
+        <item>Chocimska</item>
+        <item>Chodkiewicza</item>
+        <item>Chojnowska</item>
+        <item>Cholewkarska</item>
+        <item>Chopina</item>
+        <item>Chorwacka</item>
+        <item>Chorzowska</item>
+        <item>Chrzanowskiego</item>
+        <item>Chudoby</item>
+        <item>Chwalimierska</item>
+        <item>Chwałkowska</item>
+        <item>Chyżan</item>
+        <item>Cicha</item>
+        <item>Cichociemnych</item>
+        <item>Ciechanowska</item>
+        <item>Ciechocińska</item>
+        <item>Cieplicka</item>
+        <item>Ciepła</item>
+        <item>Ciesielski</item>
+        <item>Cieszkowskiego</item>
+        <item>Cieszyńskiego</item>
+        <item>Cieślikowskiego</item>
+        <item>Cinciały</item>
+        <item>Cisowa</item>
+        <item>Conrada-Korzeniowskiego</item>
+        <item>Cukiernicza</item>
+        <item>Cukrowa</item>
+        <item>Curie-Skłodowskiej</item>
+        <item>Cybulskiego</item>
+        <item>Cynamonowa</item>
+        <item>Cynowa</item>
+        <item>Cytrynowa</item>
+        <item>Czackiego</item>
+        <item>Czajcza</item>
+        <item>Czajkowskiego</item>
+        <item>Czaplińskiego</item>
+        <item>Czarnieckiego</item>
+        <item>Czarnoleska</item>
+        <item>Czartoryskiego</item>
+        <item>Czechowa</item>
+        <item>Czechowicka</item>
+        <item>Czekoladowa</item>
+        <item>Czeremchowa</item>
+        <item>Czereśniowa</item>
+        <item>Czerniawska</item>
+        <item>Czerwonego Krzyża</item>
+        <item>Czerwonych Maków</item>
+        <item>Czeska</item>
+        <item>Czesława</item>
+        <item>Częstochowska</item>
+        <item>Czołgistów</item>
+        <item>Czorsztyńska</item>
+        <item>Czysta</item>
+        <item>Czysty</item>
+        <item>Czytankowa</item>
+        <item>Ćwiczebna</item>
+        <item>Ćwiczebna</item>
+        <item>Daktylowa</item>
+        <item>Daleka</item>
+        <item>Dalemińców</item>
+        <item>Dalimira</item>
+        <item>Daliowa</item>
+        <item>Damrota</item>
+        <item>Daniłowskiego</item>
+        <item>Darłowska</item>
+        <item>Darwina</item>
+        <item>Daszyńskiego</item>
+        <item>Dawida</item>
+        <item>Dąbka</item>
+        <item>Dąbrowskiego</item>
+        <item>Dąbrowskiej</item>
+        <item>Dąbrówki</item>
+        <item>Dąbska</item>
+        <item>de Veuster</item>
+        <item>Dedala</item>
+        <item>Dekarska</item>
+        <item>Dembowskiego</item>
+        <item>Dembowskiego</item>
+        <item>Dembowskiego</item>
+        <item>Dereniowa</item>
+        <item>Desantowa</item>
+        <item>Deszczowa</item>
+        <item>Dębicka</item>
+        <item>Dębickiego</item>
+        <item>Dębowa</item>
+        <item>Diamentowa</item>
+        <item>Dicksteina</item>
+        <item>Długa</item>
+        <item>Długopolska</item>
+        <item>Długosza</item>
+        <item>Dłutowa</item>
+        <item>Dłużycka</item>
+        <item>Dmowskiego</item>
+        <item>Dobra</item>
+        <item>Dobrackiego</item>
+        <item>Dobroszycka</item>
+        <item>Dobrzańska</item>
+        <item>Dobrzykowicka</item>
+        <item>Dobrzyńska</item>
+        <item>Dojazd</item>
+        <item>Dokerska</item>
+        <item>Dokerska</item>
+        <item>Dolna</item>
+        <item>Dolnobrzeska</item>
+        <item>Dolnobrzeska</item>
+        <item>Dołęgi-Mostowicza</item>
+        <item>Domańskiego</item>
+        <item>Domasławska</item>
+        <item>Domeyki</item>
+        <item>Dominikański</item>
+        <item>Doroty</item>
+        <item>Dożynkowa</item>
+        <item>Drahonowskiej</item>
+        <item>Drobnera</item>
+        <item>Drobuta</item>
+        <item>Drogosławicka</item>
+        <item>Drohobycka</item>
+        <item>Dróżnicza</item>
+        <item>Dróżnicza</item>
+        <item>Druckiego-Lubeckiego</item>
+        <item>Drukarska</item>
+        <item>Drzewieckiego</item>
+        <item>Drzewna</item>
+        <item>Drzymały</item>
+        <item>Dubois</item>
+        <item>Dubrownicka</item>
+        <item>Dunikowskiego</item>
+        <item>Duńska</item>
+        <item>Dusznicka</item>
+        <item>Dworcowa</item>
+        <item>Dworcowa</item>
+        <item>Dworska</item>
+        <item>Dygasińskiego</item>
+        <item>Dygata</item>
+        <item>Dyrekcyjna</item>
+        <item>Dziadoszańska</item>
+        <item>Działdowska</item>
+        <item>Działkowa</item>
+        <item>Dziarska</item>
+        <item>Dzielna</item>
+        <item>Dzielnicowa</item>
+        <item>Dzierżonia</item>
+        <item>Dzierżoniowska</item>
+        <item>Dziwnowska</item>
+        <item>Dźwirzyńska</item>
+        <item>Ekonomiczna</item>
+        <item>Ekonomiczna</item>
+        <item>Ekspresowa</item>
+        <item>Elbląska</item>
+        <item>Elementarzowa</item>
+        <item>Elsnera</item>
+        <item>Eluarda</item>
+        <item>ELWRO</item>
+        <item>Elżbiety</item>
+        <item>Ełcka</item>
+        <item>Energetyczna</item>
+        <item>Estakada Gądowianka</item>
+        <item>Estońska</item>
+        <item>Etnografów</item>
+        <item>Fabryczna</item>
+        <item>Falskiego</item>
+        <item>Falzmanna</item>
+        <item>Fałata</item>
+        <item>Farna</item>
+        <item>Feichta</item>
+        <item>Fieldorfa</item>
+        <item>Figowa</item>
+        <item>Filipińska</item>
+        <item>Filipowicza</item>
+        <item>Filomatów</item>
+        <item>Fioletowa</item>
+        <item>Fiołkowa</item>
+        <item>Fizylierska</item>
+        <item>Flisacka</item>
+        <item>Folwarczna</item>
+        <item>Folwarczna</item>
+        <item>Forsycjowa</item>
+        <item>Forteczna</item>
+        <item>Fortowa</item>
+        <item>Franciszkańska</item>
+        <item>Franciszkański</item>
+        <item>Francuska</item>
+        <item>Franki</item>
+        <item>Frankowskiego</item>
+        <item>Fredry</item>
+        <item>Fromborska</item>
+        <item>Frycza-Modrzewskiego</item>
+        <item>Fryzjerska</item>
+        <item>Gagarina</item>
+        <item>Gajowa</item>
+        <item>Gajowicka</item>
+        <item>Gajowicka</item>
+        <item>Gajowicka</item>
+        <item>Galla Anonima</item>
+        <item>Gałczyńskiego</item>
+        <item>Gałczyńskiego</item>
+        <item>Gałowska</item>
+        <item>Gałowska</item>
+        <item>Garbary</item>
+        <item>Gardy</item>
+        <item>Garncarska</item>
+        <item>Garwolińska</item>
+        <item>Gazowa</item>
+        <item>Gądowska</item>
+        <item>Gąsiorowskiego</item>
+        <item>Gdacjusza</item>
+        <item>Gdańska</item>
+        <item>Geodezyjna</item>
+        <item>Gepperta</item>
+        <item>Gerberowa</item>
+        <item>German</item>
+        <item>Gersona</item>
+        <item>Gęsia</item>
+        <item>Gielniaka</item>
+        <item>Giełdowa</item>
+        <item>Giełdowa</item>
+        <item>Gierymskich</item>
+        <item>Gierymskich</item>
+        <item>Gimnazjalna</item>
+        <item>Giserska</item>
+        <item>Gitarowa</item>
+        <item>Giżycka</item>
+        <item>Giżyckiego</item>
+        <item>Glebowa</item>
+        <item>Gliniana</item>
+        <item>Gliwicka</item>
+        <item>Glogera</item>
+        <item>Głębowicka</item>
+        <item>Głogowczyka</item>
+        <item>Głogowska</item>
+        <item>Głośna</item>
+        <item>Głowackiego</item>
+        <item>Główna</item>
+        <item>Główna</item>
+        <item>Głubczycka</item>
+        <item>Głuszycka</item>
+        <item>Gminna</item>
+        <item>Gnieźnieńska</item>
+        <item>Godebskiego</item>
+        <item>Godlewskiego</item>
+        <item>Goetla</item>
+        <item>Gogolińska</item>
+        <item>Goleszan</item>
+        <item>Gołębia</item>
+        <item>Gołężycka</item>
+        <item>Gołnowska</item>
+        <item>Gombrowicza</item>
+        <item>Goplan</item>
+        <item>Gorlicka</item>
+        <item>Gosławicka</item>
+        <item>Gospodarska</item>
+        <item>Gostyńska</item>
+        <item>Goszczyńskiego</item>
+        <item>Góralska</item>
+        <item>Górecka</item>
+        <item>Górnickiego</item>
+        <item>Górnicza</item>
+        <item>Górnośląska</item>
+        <item>Grabarska</item>
+        <item>Grabiszyńska</item>
+        <item>Grabiszyńska</item>
+        <item>Grabowa</item>
+        <item>Grabskiego</item>
+        <item>Gradowa</item>
+        <item>Granatowa</item>
+        <item>Graniczna</item>
+        <item>Graniczna</item>
+        <item>Graniczna</item>
+        <item>Granitowa</item>
+        <item>Grawerska</item>
+        <item>Grecka</item>
+        <item>Grębocicka</item>
+        <item>Grobla Kozanowska</item>
+        <item>Grobla Kozanowska</item>
+        <item>Grobla Kozanowska</item>
+        <item>Grobla Łaniewska</item>
+        <item>Grochowa</item>
+        <item>Grochowiaka</item>
+        <item>Grodecka</item>
+        <item>Grodzieńska</item>
+        <item>Grodzka</item>
+        <item>Gromadzka</item>
+        <item>Grota-Roweckiego</item>
+        <item>Grota-Roweckiego</item>
+        <item>Grottgera</item>
+        <item>Grójecka</item>
+        <item>Grudziądzka</item>
+        <item>Grunwaldzka</item>
+        <item>Grunwaldzki</item>
+        <item>Gruszowa</item>
+        <item>Gruzińska</item>
+        <item>Grybowska</item>
+        <item>Gryczana</item>
+        <item>Grzmota-Skotnickiego</item>
+        <item>Gubińska</item>
+        <item>Gwarecka</item>
+        <item>Gwarna</item>
+        <item>Gwiaździsta</item>
+        <item>Gwizdanowska</item>
+        <item>Haisiga</item>
+        <item>Hajducka</item>
+        <item>Halicka</item>
+        <item>Halicka</item>
+        <item>Hallera</item>
+        <item>Hallera</item>
+        <item>Hallera</item>
+        <item>Halna</item>
+        <item>Halskiej</item>
+        <item>Handelsmana</item>
+        <item>Harcerska</item>
+        <item>Hartmana</item>
+        <item>Haukego-Bosaka</item>
+        <item>Heblarska</item>
+        <item>Helska</item>
+        <item>Henryka Brodatego</item>
+        <item>Henryka Pobożnego</item>
+        <item>Henryka Probusa</item>
+        <item>Henrykowska</item>
+        <item>Hercena</item>
+        <item>Hermanowska</item>
+        <item>Hetmańska</item>
+        <item>Heweliusza</item>
+        <item>Himalajska</item>
+        <item>Hippiczna</item>
+        <item>Hirszfelda</item>
+        <item>Hiszpańska</item>
+        <item>Hlonda</item>
+        <item>Hłaski</item>
+        <item>Hodowlana</item>
+        <item>Hoene-Wrońskiego</item>
+        <item>Hofmannów</item>
+        <item>Hokeistów</item>
+        <item>Holenderska</item>
+        <item>Horbaczewskiego</item>
+        <item>Hoża</item>
+        <item>Hubala</item>
+        <item>Huberta</item>
+        <item>Hubska</item>
+        <item>Hufcowa</item>
+        <item>Husarska</item>
+        <item>Husycka</item>
+        <item>Hutnicza</item>
+        <item>Hynka</item>
+        <item>Idziego</item>
+        <item>Idzikowskiego</item>
+        <item>Igielna</item>
+        <item>Iglasta</item>
+        <item>Ignuta</item>
+        <item>Ignuta</item>
+        <item>Ikara</item>
+        <item>Iławska</item>
+        <item>Iłłakowiczówny</item>
+        <item>Imbirowa</item>
+        <item>Indyjski</item>
+        <item>Inflancka</item>
+        <item>Inowrocławska</item>
+        <item>Inspektowa</item>
+        <item>Inżynierska</item>
+        <item>Iracka</item>
+        <item>Irkucka</item>
+        <item>Irlandzka</item>
+        <item>Irysowa</item>
+        <item>Iwaszkiewicza</item>
+        <item>Iwonicka</item>
+        <item>Jabłeczna</item>
+        <item>Jackowskiego</item>
+        <item>Jackowskiego</item>
+        <item>Jadwigi</item>
+        <item>Jagiellońska</item>
+        <item>Jaglana</item>
+        <item>Jagniątkowska</item>
+        <item>Jagodowa</item>
+        <item>Jagodzińska</item>
+        <item>Jahna</item>
+        <item>Jajczarska</item>
+        <item>Jaksonowicka</item>
+        <item>Jałowcowa</item>
+        <item>Jana Chrzciciela</item>
+        <item>Jana III Sobieskiego</item>
+        <item>Jana III Sobieskiego</item>
+        <item>Jana Kapistrana</item>
+        <item>Jana Pawła II</item>
+        <item>Jana Styki i Wojciecha Kossaka</item>
+        <item>Janickiego</item>
+        <item>Janiszewskiego</item>
+        <item>Janowska</item>
+        <item>Jantarowa</item>
+        <item>Januszowicka</item>
+        <item>Japońska</item>
+        <item>Jaracza</item>
+        <item>Jareckiego</item>
+        <item>Jareckiego</item>
+        <item>Jarnołtowska</item>
+        <item>Jarnołtowska</item>
+        <item>Jarocińska</item>
+        <item>Jarosławska</item>
+        <item>Jarzębinowa</item>
+        <item>Jarzynowa</item>
+        <item>Jasielska</item>
+        <item>Jasienicy</item>
+        <item>Jasińskiej</item>
+        <item>Jaskółcza</item>
+        <item>Jasna</item>
+        <item>Jaspisowa</item>
+        <item>Jastrzębia</item>
+        <item>Jaśkowicka</item>
+        <item>Jaśminowa</item>
+        <item>Jatki</item>
+        <item>Jaworowa</item>
+        <item>Jaworska</item>
+        <item>Jaworskiego</item>
+        <item>Jaźwińska</item>
+        <item>Jedności Narodowej</item>
+        <item>Jelczańska</item>
+        <item>Jelenia</item>
+        <item>Jeleniogórska</item>
+        <item>Jemeńska</item>
+        <item>Jemiołowa</item>
+        <item>Jerzego</item>
+        <item>Jerzmanowska</item>
+        <item>Jerzmanowska</item>
+        <item>Jerzmanowska</item>
+        <item>Jesienna</item>
+        <item>Jesiennicka</item>
+        <item>Jesionowa</item>
+        <item>Jezierskiego</item>
+        <item>Jeziorowa</item>
+        <item>Jeździecka</item>
+        <item>Jeżowska</item>
+        <item>Jęczmienna</item>
+        <item>Jędrzejowska</item>
+        <item>Joannitów</item>
+        <item>Jodłowa</item>
+        <item>Joliot-Curie</item>
+        <item>Jordanowska</item>
+        <item>Jordańska</item>
+        <item>Józefa</item>
+        <item>Jubilerska</item>
+        <item>Jugosłowiańska</item>
+        <item>Junacka</item>
+        <item>Junacka</item>
+        <item>Juszczaka</item>
+        <item>Jutrosińska</item>
+        <item>Jutrzenki</item>
+        <item>Jutrzenki</item>
+        <item>Kaczeńcowa</item>
+        <item>Kaczeńcowa</item>
+        <item>Kaczmarka</item>
+        <item>Kaczmarskiego</item>
+        <item>Kaczyńskich</item>
+        <item>Kadłubka</item>
+        <item>Kajakarzy</item>
+        <item>Kajakarzy</item>
+        <item>Kaletnicza</item>
+        <item>Kalinowa</item>
+        <item>Kaliski</item>
+        <item>Kamieniecka</item>
+        <item>Kamienna</item>
+        <item>Kamienna</item>
+        <item>Kamiennogórska</item>
+        <item>Kamieńskiego</item>
+        <item>Kamieńskiego</item>
+        <item>Kamieńskiego</item>
+        <item>Kampinoska</item>
+        <item>Kanadyjska</item>
+        <item>Kanałowa</item>
+        <item>Kanałowa</item>
+        <item>Kanonia</item>
+        <item>Kanonierska</item>
+        <item>Kapitulna</item>
+        <item>Kapliczna</item>
+        <item>Karczemna</item>
+        <item>Kardamonowa</item>
+        <item>Karkonoska</item>
+        <item>Karkonoska</item>
+        <item>Karkonoska</item>
+        <item>Karkonoska</item>
+        <item>Karłowicza</item>
+        <item>Karmelkowa</item>
+        <item>Karmelkowa</item>
+        <item>Karpacka</item>
+        <item>Karpińskiego</item>
+        <item>Karwińska</item>
+        <item>Karwińska</item>
+        <item>Kasprowicza</item>
+        <item>Kasprzaka</item>
+        <item>Kasztanowa</item>
+        <item>Kasztelańska</item>
+        <item>Kaszubska</item>
+        <item>Katarzyny</item>
+        <item>Katedralna</item>
+        <item>Katedralny</item>
+        <item>Katowicka</item>
+        <item>Kawalerzystów</item>
+        <item>Kazimierska</item>
+        <item>Kazimierza Jagiellończyka</item>
+        <item>Kazimierza Wielkiego</item>
+        <item>Kaznodziejska</item>
+        <item>Kącka</item>
+        <item>Kącka</item>
+        <item>Kątowa</item>
+        <item>Ketlinga</item>
+        <item>Kępa Mieszczańska</item>
+        <item>Kępińska</item>
+        <item>Kętrzyńska</item>
+        <item>Kielara</item>
+        <item>Kielecka</item>
+        <item>Kiełbaśnicza</item>
+        <item>Kiełczowska</item>
+        <item>Kiemliczów</item>
+        <item>Kiepury</item>
+        <item>Kilińskiego</item>
+        <item>Klaczki</item>
+        <item>Klasztorna</item>
+        <item>Klecińska</item>
+        <item>Klecińska</item>
+        <item>Kleczkowska</item>
+        <item>Kleeberga</item>
+        <item>Klimasa</item>
+        <item>Klonowa</item>
+        <item>Kluczborska</item>
+        <item>Kładka Barani Skok</item>
+        <item>Kładka Siedlecka</item>
+        <item>Kładka Siedlecka</item>
+        <item>Kłodnicka</item>
+        <item>Kłodzka</item>
+        <item>Kłokoczycka</item>
+        <item>Kłopockiej</item>
+        <item>Kłośna</item>
+        <item>Kmicica</item>
+        <item>Kmieca</item>
+        <item>Kminkowa</item>
+        <item>Kminkowa</item>
+        <item>Knastera</item>
+        <item>Kniaziewicza</item>
+        <item>Knignicka</item>
+        <item>Knota</item>
+        <item>Kobierzycka</item>
+        <item>Kocha</item>
+        <item>Kochanowskiego</item>
+        <item>Kochanowskiego</item>
+        <item>Kochanowskiego</item>
+        <item>Kokosowa</item>
+        <item>Kolarska</item>
+        <item>Kolberga</item>
+        <item>Kolbuszowska</item>
+        <item>Kolejowa</item>
+        <item>Kolendrowa</item>
+        <item>Kolista</item>
+        <item>Kolumba</item>
+        <item>Kołłątaja</item>
+        <item>Kołobrzeska</item>
+        <item>Kołodziejska</item>
+        <item>Komandorska</item>
+        <item>Komandorska</item>
+        <item>Komeńskiego</item>
+        <item>Kominiarska</item>
+        <item>Kominiarska</item>
+        <item>Kominka</item>
+        <item>Komorowska</item>
+        <item>Komornicka</item>
+        <item>Komuny Paryskiej</item>
+        <item>Konarskiego</item>
+        <item>Konduktorska</item>
+        <item>Koniecpolskiego</item>
+        <item>Konińska</item>
+        <item>Konopnickiej</item>
+        <item>Konstytucji 3 Maja</item>
+        <item>Konwaliowa</item>
+        <item>Końcowa</item>
+        <item>Końska</item>
+        <item>Kopańskiego</item>
+        <item>Kopernika</item>
+        <item>Kopernika</item>
+        <item>Kopernika</item>
+        <item>Korczaka</item>
+        <item>Kordeckiego</item>
+        <item>Kordiana</item>
+        <item>Koreańska</item>
+        <item>Korfantego</item>
+        <item>Korzeńska</item>
+        <item>Kosiby</item>
+        <item>Kosidowskiego</item>
+        <item>Kosmiczna</item>
+        <item>Kosmonautów</item>
+        <item>Kosmonautów</item>
+        <item>Kossaka</item>
+        <item>Kossak-Szczuckiej</item>
+        <item>Kostrzyńska</item>
+        <item>Kosynierów Gdyńskich</item>
+        <item>Koszalińska</item>
+        <item>Koszarowa</item>
+        <item>Koszycka</item>
+        <item>Koszycka</item>
+        <item>Koszykarska</item>
+        <item>Koszykarzy</item>
+        <item>Kościańska</item>
+        <item>Kościelna</item>
+        <item>Kościelny</item>
+        <item>Kościerzyńska</item>
+        <item>Kościuszki</item>
+        <item>Kościuszki</item>
+        <item>Kościuszki</item>
+        <item>Kośnego</item>
+        <item>Kotlarska</item>
+        <item>Kotsisa</item>
+        <item>Kotwiczna</item>
+        <item>Kowalska</item>
+        <item>Kowalskiego</item>
+        <item>Kowarzyka</item>
+        <item>Kowieńska</item>
+        <item>Kozanowska</item>
+        <item>Kozia</item>
+        <item>Kozielska</item>
+        <item>Kożuchowska</item>
+        <item>Kożuchowska</item>
+        <item>Kraińskiego</item>
+        <item>Krajewskiego</item>
+        <item>Krajobrazowa</item>
+        <item>Krakowska</item>
+        <item>Krakowska</item>
+        <item>Krakusa</item>
+        <item>Krasickiego</item>
+        <item>Krasińskiego</item>
+        <item>Kraszewskiego</item>
+        <item>Krawiecka</item>
+        <item>Kresowa</item>
+        <item>Kresowa</item>
+        <item>Kreślarska</item>
+        <item>Krępicka</item>
+        <item>Kręta</item>
+        <item>Krokusowa</item>
+        <item>Kromera</item>
+        <item>Kromera</item>
+        <item>Krośnicka</item>
+        <item>Krośnieńska</item>
+        <item>Krotoszyńska</item>
+        <item>Krowia</item>
+        <item>Królewiecka</item>
+        <item>Królewiecka</item>
+        <item>Królewska</item>
+        <item>Krótka</item>
+        <item>Krucza</item>
+        <item>Krucza</item>
+        <item>Kruczkowskiego</item>
+        <item>Krupnicza</item>
+        <item>Kruszcowa</item>
+        <item>Kruszwicka</item>
+        <item>Krynicka</item>
+        <item>Kryniczna</item>
+        <item>Kryształowa</item>
+        <item>Krzelowska</item>
+        <item>Krzemieniecka</item>
+        <item>Krzeptowska</item>
+        <item>Krzeszowska</item>
+        <item>Krzycka</item>
+        <item>Krzysztofa</item>
+        <item>Krzywa</item>
+        <item>Krzywa Grobla</item>
+        <item>Krzywa Grobla</item>
+        <item>Krzywickiego</item>
+        <item>Krzyżanowicka</item>
+        <item>Krzyżowska</item>
+        <item>Księgarska</item>
+        <item>Księgowa</item>
+        <item>Księska</item>
+        <item>Księżycowa</item>
+        <item>Kubali</item>
+        <item>Kudowska</item>
+        <item>Kujawska</item>
+        <item>Kujbyszewska</item>
+        <item>Kuklińskiego</item>
+        <item>Kuklińskiego</item>
+        <item>Kuklińskiego</item>
+        <item>Kukuczki</item>
+        <item>Kukułcza</item>
+        <item>Kunickiego</item>
+        <item>Kupiecka</item>
+        <item>Kurkowa</item>
+        <item>Kuronia</item>
+        <item>Kuropatwia</item>
+        <item>Kurpiów</item>
+        <item>Kurska</item>
+        <item>Kurzy Targ</item>
+        <item>Kustronia</item>
+        <item>Kusztelana</item>
+        <item>Kutnowska</item>
+        <item>Kutrzeby</item>
+        <item>Kuźnicza</item>
+        <item>Kwaśna</item>
+        <item>Kwiatkowskiego</item>
+        <item>Kwiatkowskiego</item>
+        <item>Kwiatowa</item>
+        <item>Kwidzyńska</item>
+        <item>Kwiska</item>
+        <item>Kwitnąca</item>
+        <item>Lakiernicza</item>
+        <item>Langiewicza</item>
+        <item>Laotańska</item>
+        <item>Las Kuźnicki</item>
+        <item>Las Leśnicki</item>
+        <item>Las Mokrzański</item>
+        <item>Las Osobowicki</item>
+        <item>Las Pilczycki</item>
+        <item>Las Rakowiecki</item>
+        <item>Las Rakowiecki</item>
+        <item>Las Rędziński</item>
+        <item>Las Sołtysowicki</item>
+        <item>Las Strachociński</item>
+        <item>Las Wojnowski</item>
+        <item>Las Zakrzowski</item>
+        <item>Lasek Oporowski</item>
+        <item>Lasek Ratyński</item>
+        <item>Laskowa</item>
+        <item>Laskowa</item>
+        <item>Laskowicka</item>
+        <item>Latawcowa</item>
+        <item>Laurowa</item>
+        <item>Lawendowa</item>
+        <item>Lazurowa</item>
+        <item>Lądecka</item>
+        <item>Lechitów</item>
+        <item>Lechonia</item>
+        <item>Ledóchowskiego</item>
+        <item>Legionów</item>
+        <item>Legnicka</item>
+        <item>Legnicka</item>
+        <item>Lekarska</item>
+        <item>Lekcyjna</item>
+        <item>Lelewela</item>
+        <item>Lenartowicza</item>
+        <item>Leszczynowa</item>
+        <item>Leśmiana</item>
+        <item>Leśna</item>
+        <item>Letnia</item>
+        <item>Lewa</item>
+        <item>Libelta</item>
+        <item>Lidzbarska</item>
+        <item>Lidzka</item>
+        <item>Ligocka</item>
+        <item>Liliowa</item>
+        <item>Limanowska</item>
+        <item>Lindego</item>
+        <item>Linkego</item>
+        <item>Liońska</item>
+        <item>Lipińskiego</item>
+        <item>Lipowa</item>
+        <item>Lipska</item>
+        <item>Lisia</item>
+        <item>Liskego</item>
+        <item>Liściasta</item>
+        <item>Litewska</item>
+        <item>Litewska</item>
+        <item>Litomska</item>
+        <item>Lniana</item>
+        <item>Logiczna</item>
+        <item>Lompy</item>
+        <item>Lotnicza</item>
+        <item>Lotnicza</item>
+        <item>Lotnicza</item>
+        <item>Lotników Polskich</item>
+        <item>Lubawska</item>
+        <item>Lubczykowa</item>
+        <item>Lubelska</item>
+        <item>Lubiąska</item>
+        <item>Lubińska</item>
+        <item>Lublańska</item>
+        <item>Lubska</item>
+        <item>Lubuska</item>
+        <item>Lubuska</item>
+        <item>Ludowa</item>
+        <item>Ludwiga van Beethovena</item>
+        <item>Lukrecjowa</item>
+        <item>Lutycka</item>
+        <item>Lutyńska</item>
+        <item>Lwowska</item>
+        <item>Łaciarska</item>
+        <item>Ładna</item>
+        <item>Łagiewnicka</item>
+        <item>Łaniewska</item>
+        <item>Łanowa</item>
+        <item>Łanowskiego</item>
+        <item>Łaska</item>
+        <item>Łazienna</item>
+        <item>Łączna</item>
+        <item>Łączności</item>
+        <item>Łąka Mazurska</item>
+        <item>Łąkowa</item>
+        <item>Łęczycka</item>
+        <item>Łomnicka</item>
+        <item>Łomżyńska</item>
+        <item>Łopianowa</item>
+        <item>Łososiowicka</item>
+        <item>Łowiecka</item>
+        <item>Łozińska</item>
+        <item>Łódzka</item>
+        <item>Łubinowa</item>
+        <item>Łuczan</item>
+        <item>Łuczników</item>
+        <item>Ługowa</item>
+        <item>Ługowińska</item>
+        <item>Łukasiewicza</item>
+        <item>Łukasińskiego</item>
+        <item>Łukowa</item>
+        <item>Łukowska</item>
+        <item>Łużycka</item>
+        <item>Łysogórska</item>
+        <item>Łyżwiarzy</item>
+        <item>Macedońska</item>
+        <item>Machnicka</item>
+        <item>Macieja</item>
+        <item>Maczka</item>
+        <item>Magazynierska</item>
+        <item>Magellana</item>
+        <item>Maja</item>
+        <item>Maja</item>
+        <item>Majakowskiego</item>
+        <item>Majchra</item>
+        <item>Majerankowa</item>
+        <item>Makowa</item>
+        <item>Makuszyńskiego</item>
+        <item>Malachitowa</item>
+        <item>Malarska</item>
+        <item>Malborska</item>
+        <item>Malczewskiego</item>
+        <item>Malczycka</item>
+        <item>Malczycka</item>
+        <item>Maleczyńskich</item>
+        <item>Malinowa</item>
+        <item>Malinowskiego</item>
+        <item>Malownicza</item>
+        <item>Malwowa</item>
+        <item>Małachowskiego</item>
+        <item>Małkowskiego</item>
+        <item>Małomicka</item>
+        <item>Małopanewska</item>
+        <item>Małopolska</item>
+        <item>Małoszyńska</item>
+        <item>Mandarynkowa</item>
+        <item>Mandżurska</item>
+        <item>Manganowa</item>
+        <item>Marcepanowa</item>
+        <item>Marchewkowa</item>
+        <item>Marcina</item>
+        <item>Marcinkowskiego</item>
+        <item>Marczewskiego</item>
+        <item>Marii Magdaleny</item>
+        <item>Markowskiego</item>
+        <item>Marmurowa</item>
+        <item>Marsowa</item>
+        <item>Marszowicka</item>
+        <item>Marszowicka</item>
+        <item>Marynarska</item>
+        <item>Marysieńki</item>
+        <item>Masztalerza</item>
+        <item>Masztowa</item>
+        <item>Maślicka</item>
+        <item>Maślicka</item>
+        <item>Maślicka</item>
+        <item>Matejki</item>
+        <item>Matuszka</item>
+        <item>Mazepy</item>
+        <item>Mazepy</item>
+        <item>Mazowiecka</item>
+        <item>Mączna</item>
+        <item>Mechaników</item>
+        <item>Meissnera</item>
+        <item>Meliorancka</item>
+        <item>Meliorancka Południowa</item>
+        <item>Mennicza</item>
+        <item>Metalowców</item>
+        <item>Mewia</item>
+        <item>Męcińskiego</item>
+        <item>Mglista</item>
+        <item>Mianowskiego</item>
+        <item>Miarki</item>
+        <item>Michalczyka</item>
+        <item>Michałowskiego</item>
+        <item>Micheleta</item>
+        <item>Micińskiego</item>
+        <item>Mickiewicza</item>
+        <item>Mickiewicza</item>
+        <item>Miechowity</item>
+        <item>Miechowity</item>
+        <item>Miechowska</item>
+        <item>Mieczykowa</item>
+        <item>Miedziana</item>
+        <item>Miejska</item>
+        <item>Mielczarskiego</item>
+        <item>Mielczarskiego</item>
+        <item>Mielecka</item>
+        <item>Miernicza</item>
+        <item>Mierosławskiego</item>
+        <item>Mieroszowska</item>
+        <item>Mieszczańska</item>
+        <item>Mieszka I</item>
+        <item>Międzygórska</item>
+        <item>Międzyleska</item>
+        <item>Międzyrzecka</item>
+        <item>Międzyrzecka</item>
+        <item>Międzyzdrojska</item>
+        <item>Miętowa</item>
+        <item>Miętowa</item>
+        <item>Miętowa Południowa</item>
+        <item>Migdałowa</item>
+        <item>Mikołaja</item>
+        <item>Mikołaja</item>
+        <item>Mikołowska</item>
+        <item>Mikory</item>
+        <item>Mikulicza-Radeckiego</item>
+        <item>Mikulskiego</item>
+        <item>Milenijna</item>
+        <item>Milicka</item>
+        <item>Milicka</item>
+        <item>Miła</item>
+        <item>Miłkowska</item>
+        <item>Miłostowska</item>
+        <item>Miłosza</item>
+        <item>Miłoszycka</item>
+        <item>Minkowskiego</item>
+        <item>Mińska</item>
+        <item>Miodowa</item>
+        <item>Mirkowska</item>
+        <item>Mirtowa</item>
+        <item>Mleczarska</item>
+        <item>Młoda</item>
+        <item>Młodnickiego</item>
+        <item>Młodych Techników</item>
+        <item>Młodzieżowa</item>
+        <item>Młynarska</item>
+        <item>Mochnackiego</item>
+        <item>Modelskiego</item>
+        <item>Modlińska</item>
+        <item>Modra</item>
+        <item>Modrzejewskiej</item>
+        <item>Modrzewiowa</item>
+        <item>Mojęcicka</item>
+        <item>Mokra</item>
+        <item>Mokronoska</item>
+        <item>Mokrzańska</item>
+        <item>Mongolski</item>
+        <item>Moniuszki</item>
+        <item>Monopolowa</item>
+        <item>Monte Cassino</item>
+        <item>Monterska</item>
+        <item>Morawska</item>
+        <item>Morelowa</item>
+        <item>Morelowskiego</item>
+        <item>Morska</item>
+        <item>Morwowa</item>
+        <item>Mosbacha</item>
+        <item>Mosiężna</item>
+        <item>Most Bartoszowicki</item>
+        <item>Most Bolesława Krzywoustego</item>
+        <item>Most Brodzki</item>
+        <item>Most Burzowy</item>
+        <item>Most Dekarski</item>
+        <item>Most Grunwaldzki</item>
+        <item>Most Grunwaldzki</item>
+        <item>Most Grunwaldzki</item>
+        <item>Most Jarnołtowski</item>
+        <item>Most Kleciński</item>
+        <item>Most Kłokoczycki</item>
+        <item>Most ks. Piotra Skargi</item>
+        <item>Most Marszowicki</item>
+        <item>Most Marszowicki</item>
+        <item>Most Maślicki</item>
+        <item>Most Mieszczański</item>
+        <item>Most Milenijny</item>
+        <item>Most Milenijny</item>
+        <item>Most Młyński</item>
+        <item>Most Muchoborski</item>
+        <item>Most Muchoborski</item>
+        <item>Most nad Kasiną</item>
+        <item>Most Oławski</item>
+        <item>Most Oporowski</item>
+        <item>Most Oporowski</item>
+        <item>Most Osobowicki</item>
+        <item>Most Parkowy</item>
+        <item>Most Partynicki</item>
+        <item>Most Partynicki</item>
+        <item>Most Pawłowicki</item>
+        <item>Most Pęgowski</item>
+        <item>Most Piaskowy</item>
+        <item>Most Piaskowy</item>
+        <item>Most Pilczycki</item>
+        <item>Most Pokoju</item>
+        <item>Most Polanowicki</item>
+        <item>Most Pomorski</item>
+        <item>Most Rakowiecki</item>
+        <item>Most Ratyński</item>
+        <item>Most Ratyński</item>
+        <item>Most Romana Dmowskiego</item>
+        <item>Most Romana Dmowskiego</item>
+        <item>Most Sądowy</item>
+        <item>Most Słodowy</item>
+        <item>Most Sołtysowicki</item>
+        <item>Most Sołtysowicki</item>
+        <item>Most Strachociński</item>
+        <item>Most Strzegomski</item>
+        <item>Most Strzegomski</item>
+        <item>Most Swojczycki</item>
+        <item>Most Szczytnicki</item>
+        <item>Most św. Antoniego</item>
+        <item>Most św. Klary</item>
+        <item>Most św. Macieja</item>
+        <item>Most św. Macieja</item>
+        <item>Most Świątnicki</item>
+        <item>Most Trzebnicki</item>
+        <item>Most Tumski</item>
+        <item>Most Uniwersytecki</item>
+        <item>Most Uniwersytecki</item>
+        <item>Most Warszawski</item>
+        <item>Most Warszawski</item>
+        <item>Most Widawski</item>
+        <item>Most Wilczycki</item>
+        <item>Most Władysława Sikorskiego</item>
+        <item>Most Zakrzowski</item>
+        <item>Most Zaleski</item>
+        <item>Most Zwierzyniecki</item>
+        <item>Most Żernicki</item>
+        <item>Mostowa</item>
+        <item>Mosty Jagiellońskie</item>
+        <item>Mosty Jagiellońskie</item>
+        <item>Mosty Średzkie</item>
+        <item>Mościckiego</item>
+        <item>Mościckiego</item>
+        <item>Motylkowa</item>
+        <item>Mozarta</item>
+        <item>Mrągowska</item>
+        <item>Mrozowska</item>
+        <item>Mroźna</item>
+        <item>Muchoborska</item>
+        <item>Mulicka</item>
+        <item>Murarska</item>
+        <item>Muzealna</item>
+        <item>Muzealny</item>
+        <item>Mydlana</item>
+        <item>Mydlarskiego</item>
+        <item>Mysłakowicka</item>
+        <item>Mysłowicka</item>
+        <item>Myszkowska</item>
+        <item>Myśliwska</item>
+        <item>Na Grobli</item>
+        <item>Na Grobli</item>
+        <item>Na Grobli</item>
+        <item>Na Końcu</item>
+        <item>Na Niskich Łąkach</item>
+        <item>Na Niskich Łąkach</item>
+        <item>Na Ostatnim Groszu</item>
+        <item>Na Polance</item>
+        <item>Na Szańcach</item>
+        <item>Nabielaka</item>
+        <item>Nabycińska</item>
+        <item>Nadbrzeżna</item>
+        <item>Nadolicka</item>
+        <item>Nadrzeczna</item>
+        <item>Nagietkowa</item>
+        <item>Najświętszej Marii Panny</item>
+        <item>Nałęczowska</item>
+        <item>Nałkowskiej</item>
+        <item>Namysłowska</item>
+        <item>Nankiera</item>
+        <item>Narciarska</item>
+        <item>Narciarska</item>
+        <item>Narcyzowa</item>
+        <item>Narzędziowa</item>
+        <item>Nasienna</item>
+        <item>Nastawnicza</item>
+        <item>Nasturcjowa</item>
+        <item>Nasypowa</item>
+        <item>Nauczycielska</item>
+        <item>Nefrytowa</item>
+        <item>Nehringa</item>
+        <item>Nektarowa</item>
+        <item>Nenckiego</item>
+        <item>Nenckiego</item>
+        <item>Nenufarowa</item>
+        <item>Nepalska</item>
+        <item>Niborska</item>
+        <item>Niebieska</item>
+        <item>Niecała</item>
+        <item>Niedziałkowskiego</item>
+        <item>Niedźwiedzia</item>
+        <item>Niemcewicza</item>
+        <item>Niemczańska</item>
+        <item>Niemkińska</item>
+        <item>Niepierzyńska</item>
+        <item>Niepodległości</item>
+        <item>Niezależnego Zrzeszenia Studentów</item>
+        <item>Nikliborca</item>
+        <item>Niklowa</item>
+        <item>Nizinna</item>
+        <item>Noakowskiego</item>
+        <item>Nobla</item>
+        <item>Norblina</item>
+        <item>Norblina</item>
+        <item>Norweska</item>
+        <item>Norwida</item>
+        <item>Noskowskiego</item>
+        <item>Notecka</item>
+        <item>Nowa</item>
+        <item>Nowaka-Jeziorańskiego</item>
+        <item>Nowaka-Jeziorańskiego</item>
+        <item>Nowaka-Jeziorańskiego</item>
+        <item>Nowodworska</item>
+        <item>Nowogródzka</item>
+        <item>Nowohucka</item>
+        <item>Nowosądecka</item>
+        <item>Nowotarska</item>
+        <item>Nowowiejska</item>
+        <item>Nowy Świat</item>
+        <item>Nowy Targ</item>
+        <item>Nożownicza</item>
+        <item>Nulla</item>
+        <item>Nyska</item>
+        <item>Nyska</item>
+        <item>Objazdowa</item>
+        <item>Oblatów</item>
+        <item>Obodrzycka</item>
+        <item>Obornicka</item>
+        <item>Oboźna</item>
+        <item>Obrońców Grodna</item>
+        <item>Obrońców Poczty Gdańskiej</item>
+        <item>Obrońców Poczty Gdańskiej</item>
+        <item>Odcinek</item>
+        <item>Odeska</item>
+        <item>Odkrywców</item>
+        <item>Odolanowska</item>
+        <item>Odrodzenia Polski</item>
+        <item>Odrzańska</item>
+        <item>Ofiar Oświęcimskich</item>
+        <item>Oficerska</item>
+        <item>Ogórkowa</item>
+        <item>Ogrodowa</item>
+        <item>Okólna</item>
+        <item>Okólna</item>
+        <item>Okrętowa</item>
+        <item>Okrężna</item>
+        <item>Okrzei</item>
+        <item>Oksywska</item>
+        <item>Okulickiego</item>
+        <item>Olbrachtowska</item>
+        <item>Oleska</item>
+        <item>Oleśnicka</item>
+        <item>Oliwkowa</item>
+        <item>Olkuska</item>
+        <item>Olszewskiego</item>
+        <item>Olszewskiego</item>
+        <item>Olsztyńska</item>
+        <item>Oławska</item>
+        <item>Ołbińska</item>
+        <item>Ołowiana</item>
+        <item>Ołtaszyńska</item>
+        <item>Omska</item>
+        <item>Opalowa</item>
+        <item>Opatowicka</item>
+        <item>Opatowicka</item>
+        <item>Opłotkowa</item>
+        <item>Opoczyńska</item>
+        <item>Opolska</item>
+        <item>Opolska</item>
+        <item>Oporowska</item>
+        <item>Oppmana</item>
+        <item>Oraczy</item>
+        <item>Orawska</item>
+        <item>Orkana</item>
+        <item>Orkiszowa</item>
+        <item>Orla</item>
+        <item>Orląt Lwowskich</item>
+        <item>Orlińskiego</item>
+        <item>Orłowicza</item>
+        <item>Orłowskiego</item>
+        <item>Ormiański</item>
+        <item>Orna</item>
+        <item>Orzechowa</item>
+        <item>Orzeszkowej</item>
+        <item>Osadnicza</item>
+        <item>Osiecka</item>
+        <item>Osiedlowa</item>
+        <item>Osiniecka</item>
+        <item>Osiniecka</item>
+        <item>Osiniecka</item>
+        <item>Osmańczyka</item>
+        <item>Osobowicka</item>
+        <item>Osobowicka</item>
+        <item>Osobowicka</item>
+        <item>Osolska</item>
+        <item>Ostowa</item>
+        <item>Ostowa Północna</item>
+        <item>Ostrężynowa</item>
+        <item>Ostroroga</item>
+        <item>Ostrowska</item>
+        <item>Ostrowskiego</item>
+        <item>Ostrowskiego</item>
+        <item>Ostrowskiego</item>
+        <item>Ostródzka</item>
+        <item>Ostrów Tumski</item>
+        <item>Ostrzeszowska</item>
+        <item>Otmuchowska</item>
+        <item>Otwarta</item>
+        <item>Otwocka</item>
+        <item>Otyńska</item>
+        <item>Owczarska</item>
+        <item>Owocowa</item>
+        <item>Owsiana</item>
+        <item>Ożynowa</item>
+        <item>Pabianicka</item>
+        <item>Pachnąca</item>
+        <item>Paczkowska</item>
+        <item>Paderewskiego</item>
+        <item>Pakistańska</item>
+        <item>Pakosławska</item>
+        <item>Pakosławska</item>
+        <item>Palacha</item>
+        <item>Palestyńska</item>
+        <item>Palisadowa</item>
+        <item>Pałucka</item>
+        <item>Pamirska</item>
+        <item>Paniowicka</item>
+        <item>Pankiewicza</item>
+        <item>Papiernicza</item>
+        <item>Paprotna</item>
+        <item>Parafialna</item>
+        <item>Parafialna</item>
+        <item>Parandowskiego</item>
+        <item>Park Bieńkowicki</item>
+        <item>Park Biskupiński</item>
+        <item>Park Brochowski</item>
+        <item>Park Dąbski</item>
+        <item>Park Generała Władysława Andersa</item>
+        <item>Park Grabiszyński</item>
+        <item>Park Jana Kasprowicza</item>
+        <item>Park Juliusza Słowackiego</item>
+        <item>Park Kleciński</item>
+        <item>Park Leśnicki</item>
+        <item>Park Marii Dąbrowskiej</item>
+        <item>Park Mikołaja Kopernika</item>
+        <item>Park Milenijny</item>
+        <item>Park na Niskich Łąkach</item>
+        <item>Park Południowy</item>
+        <item>Park Popowicki</item>
+        <item>Park Skowroni</item>
+        <item>Park Stabłowicki</item>
+        <item>Park Stanisława Staszica</item>
+        <item>Park Stanisława Tołpy</item>
+        <item>Park Strachowicki</item>
+        <item>Park Szczytnicki</item>
+        <item>Park św. Edyty Stein</item>
+        <item>Park Wschodni</item>
+        <item>Park Zachodni</item>
+        <item>Park Złotnicki</item>
+        <item>Parkowa</item>
+        <item>Parnickiego</item>
+        <item>Parowozowa</item>
+        <item>Partynicka</item>
+        <item>Partyzantów</item>
+        <item>Partyzantów</item>
+        <item>Paryska</item>
+        <item>Pasieczna</item>
+        <item>Pasłęcka</item>
+        <item>Pastelowa</item>
+        <item>Pasterska</item>
+        <item>Pasterska</item>
+        <item>Pasteura</item>
+        <item>Paulińska</item>
+        <item>Pautscha</item>
+        <item>Pawia</item>
+        <item>Pawła</item>
+        <item>Pawłowa</item>
+        <item>Pawłowicka</item>
+        <item>Pedagogiczna</item>
+        <item>Pełczyńska</item>
+        <item>Pełczyńska</item>
+        <item>Pełczyńska</item>
+        <item>Pereca</item>
+        <item>Pereca</item>
+        <item>Perkusyjna</item>
+        <item>Perłowa</item>
+        <item>Peronowa</item>
+        <item>Perska</item>
+        <item>Perzowa</item>
+        <item>Perzyńskiego</item>
+        <item>Pestalozziego</item>
+        <item>Petrażyckiego</item>
+        <item>Petrusewicza</item>
+        <item>Petuniowa</item>
+        <item>Pęgowska</item>
+        <item>Pękalskiego</item>
+        <item>Piasek</item>
+        <item>Piaskowa</item>
+        <item>Piastowska</item>
+        <item>Piastów</item>
+        <item>Piechoty</item>
+        <item>Piechowicka</item>
+        <item>Piekarska</item>
+        <item>Pielęgniarska</item>
+        <item>Pienińska</item>
+        <item>Pieprzna</item>
+        <item>Piernikowa</item>
+        <item>Pierwiosnkowa</item>
+        <item>Pierwszej Dywizji</item>
+        <item>Piesza</item>
+        <item>Pieszycka</item>
+        <item>Pietrzykowicka</item>
+        <item>Pięćdziesięciu Bohaterów</item>
+        <item>Piękna</item>
+        <item>Piękna</item>
+        <item>Piękna</item>
+        <item>Piętaka</item>
+        <item>Pilata</item>
+        <item>Pilczycka</item>
+        <item>Pilczycka</item>
+        <item>Pilczycka</item>
+        <item>Pilnikarska</item>
+        <item>Piławska</item>
+        <item>Piłkarzy</item>
+        <item>Piłsudskiego</item>
+        <item>Piłsudskiego</item>
+        <item>Piłsudskiego</item>
+        <item>Pińska</item>
+        <item>Pio</item>
+        <item>Piołunowa</item>
+        <item>Pionierów</item>
+        <item>Pionierska</item>
+        <item>Piotrkowska</item>
+        <item>Piramowicza</item>
+        <item>Pirenejska</item>
+        <item>Piwna</item>
+        <item>Piwniczna</item>
+        <item>Piwnika-Ponurego</item>
+        <item>Piwowarska</item>
+        <item>Platanowa</item>
+        <item>Plater</item>
+        <item>Platówny</item>
+        <item>Pleszewska</item>
+        <item>Płaska</item>
+        <item>Płońskiego</item>
+        <item>Płużna</item>
+        <item>Pochyła</item>
+        <item>Pocztowa</item>
+        <item>Podbiałowa</item>
+        <item>Podchorążych</item>
+        <item>Podhalańska</item>
+        <item>Podolska</item>
+        <item>Podróżnicza</item>
+        <item>Podwale</item>
+        <item>Podwale</item>
+        <item>Podwórcowa</item>
+        <item>Pogodna</item>
+        <item>Pokrzywowa</item>
+        <item>Pola</item>
+        <item>Polaka</item>
+        <item>Polanowicka</item>
+        <item>Polanowicka</item>
+        <item>Polanowicka Północna</item>
+        <item>Polarna</item>
+        <item>Poleska</item>
+        <item>Polkowicka</item>
+        <item>Polna</item>
+        <item>Polo</item>
+        <item>Polonii Wrocławskiej</item>
+        <item>Polski</item>
+        <item>Połabian</item>
+        <item>Połaniecka</item>
+        <item>Połbina</item>
+        <item>Południowa</item>
+        <item>Pomarańczowa</item>
+        <item>Pomorska</item>
+        <item>Poniatowskiego</item>
+        <item>Popielskiego</item>
+        <item>Popielskiego</item>
+        <item>Popowicka</item>
+        <item>Poprzeczna</item>
+        <item>Poprzeczna</item>
+        <item>Porajowska</item>
+        <item>Poranna</item>
+        <item>Porębska</item>
+        <item>Poronińska</item>
+        <item>Portowa</item>
+        <item>Porzeczkowa</item>
+        <item>Postępowa</item>
+        <item>Postolińska</item>
+        <item>Poświęcka</item>
+        <item>Potebni</item>
+        <item>Potockiego</item>
+        <item>Potokowa</item>
+        <item>Powiewna</item>
+        <item>Powstańców Śląskich</item>
+        <item>Powstańców Śląskich</item>
+        <item>Powstańców Śląskich</item>
+        <item>Powstańców Warszawy</item>
+        <item>Powstańców Wielkopolskich</item>
+        <item>Poziomkowa</item>
+        <item>Poznańska</item>
+        <item>Północna</item>
+        <item>Pracka</item>
+        <item>Pracy</item>
+        <item>Prądzyńskiego</item>
+        <item>Pretficza</item>
+        <item>Pretficza</item>
+        <item>Prędka</item>
+        <item>Prężycka</item>
+        <item>Prochowicka</item>
+        <item>Promenada</item>
+        <item>Promenada Staromiejska</item>
+        <item>Promień</item>
+        <item>Prosta</item>
+        <item>Prudnicka</item>
+        <item>Prusa</item>
+        <item>Prusicka</item>
+        <item>Przebiśniegowa</item>
+        <item>Przechodnia</item>
+        <item>Przedmiejska</item>
+        <item>Przednia</item>
+        <item>Przedświt</item>
+        <item>Przedwiośnie</item>
+        <item>Przedwiośnie</item>
+        <item>Przejazdowa</item>
+        <item>Przejście Garncarskie</item>
+        <item>Przejście Oławskie</item>
+        <item>Przejście Słodowe</item>
+        <item>Przejście Winogronowe</item>
+        <item>Przejście Żelaźnicze</item>
+        <item>Przelot</item>
+        <item>Przemiłowska</item>
+        <item>Przemkowska</item>
+        <item>Przemyska</item>
+        <item>Przemysłowa</item>
+        <item>Przerwy-Tetmajera</item>
+        <item>Przesiecka</item>
+        <item>Przeskok</item>
+        <item>Przesmyckiego</item>
+        <item>Przestrzenna</item>
+        <item>Przy Torze</item>
+        <item>Przybyły</item>
+        <item>Przybyszewskiego</item>
+        <item>Przyjaźni</item>
+        <item>Przyjaźni</item>
+        <item>Przylaszczkowa</item>
+        <item>Przystankowa</item>
+        <item>Psie Budy</item>
+        <item>Pszczelarska</item>
+        <item>Pszczyńska</item>
+        <item>Pszenna</item>
+        <item>Ptasia</item>
+        <item>Pucka</item>
+        <item>Pugeta</item>
+        <item>Pułaskiego</item>
+        <item>Pułtuska</item>
+        <item>Pułtuska</item>
+        <item>Purkyniego</item>
+        <item>Purpurowa</item>
+        <item>Pusta</item>
+        <item>Pustecka</item>
+        <item>Puszczykowska</item>
+        <item>Pyrzycka</item>
+        <item>Rabczańska</item>
+        <item>Raciborska</item>
+        <item>Racławicka</item>
+        <item>Racławicka</item>
+        <item>Radarowa</item>
+        <item>Radkowska</item>
+        <item>Radłowa</item>
+        <item>Radomska</item>
+        <item>Radosna</item>
+        <item>Radzionkowska</item>
+        <item>Radzyńska</item>
+        <item>Rajska</item>
+        <item>Rakietowa</item>
+        <item>Rakietowa</item>
+        <item>Rakowa</item>
+        <item>Rakowiecka</item>
+        <item>Rapackiego</item>
+        <item>Raszowska</item>
+        <item>Rataja</item>
+        <item>Ratajów</item>
+        <item>Ratusz</item>
+        <item>Ratyńska</item>
+        <item>Rawicka</item>
+        <item>Rawska</item>
+        <item>Raźna</item>
+        <item>Rącza</item>
+        <item>Rdestowa</item>
+        <item>Redarów</item>
+        <item>Redycka</item>
+        <item>Redycka</item>
+        <item>Redycka</item>
+        <item>Reja</item>
+        <item>Rejonowa</item>
+        <item>Rejtana</item>
+        <item>Reszelska</item>
+        <item>Rewalska</item>
+        <item>Reymonta</item>
+        <item>Rezedowa</item>
+        <item>Rędzińska</item>
+        <item>Rędzińska</item>
+        <item>Rękodzielnicza</item>
+        <item>Robotnicza</item>
+        <item>Robotnicza</item>
+        <item>Rodakowskiego</item>
+        <item>Rodła</item>
+        <item>Rodziewiczówny</item>
+        <item>Rodzinna</item>
+        <item>Rodziny Kornów</item>
+        <item>Rodzynkowa</item>
+        <item>Roentgena</item>
+        <item>Rogowska</item>
+        <item>Rolna</item>
+        <item>Rolnicza</item>
+        <item>Romanowskiego</item>
+        <item>Romera</item>
+        <item>Rondo 27 Wołyńskiej Dywizji Piechoty Armii Krajowej</item>
+        <item>Rondo Generała Stanisława Skalskiego</item>
+        <item>Rondo Jerzego Woźniaka</item>
+        <item>Rondo Piotra Bednarza</item>
+        <item>Rondo Ronalda Reagana</item>
+        <item>Rondo Rotmistrza Witolda Pileckiego</item>
+        <item>Rondo Stanisława Szomańskiego</item>
+        <item>Rondo Václava Havla</item>
+        <item>Rondo Żołnierzy Wyklętych</item>
+        <item>Roosevelta</item>
+        <item>Rosponda</item>
+        <item>Rostafińskiego</item>
+        <item>Roślinna</item>
+        <item>Rowerowa</item>
+        <item>Rozbrat</item>
+        <item>Rozjazdowa</item>
+        <item>Rozjezdny</item>
+        <item>Rozjezdny</item>
+        <item>Rozmarynowa</item>
+        <item>Roździeńskiego</item>
+        <item>Równa</item>
+        <item>Róż</item>
+        <item>Różana</item>
+        <item>Róży Wiatrów</item>
+        <item>Różyckiego</item>
+        <item>Rubczaka</item>
+        <item>Rubinowa</item>
+        <item>Ruciana</item>
+        <item>Ruczajowa</item>
+        <item>Rudawska</item>
+        <item>Rudzka</item>
+        <item>Rumiankowa</item>
+        <item>Ruska</item>
+        <item>Rutkiewicz</item>
+        <item>Rybacka</item>
+        <item>Rybnicka</item>
+        <item>Rychła</item>
+        <item>Rychtalska</item>
+        <item>Rychtalska</item>
+        <item>Rydygiera</item>
+        <item>Rydza-Śmigłego</item>
+        <item>Rymarska</item>
+        <item>Rynek</item>
+        <item>Rysia</item>
+        <item>Rysia</item>
+        <item>Ryska</item>
+        <item>Rytownicza</item>
+        <item>Ryżowa</item>
+        <item>Rzeczna</item>
+        <item>Rzemieślnicza</item>
+        <item>Rzepakowa</item>
+        <item>Rzeszowska</item>
+        <item>Rzeźbiarska</item>
+        <item>Rzeźnicza</item>
+        <item>Sadowa</item>
+        <item>Sadownicza</item>
+        <item>Salezjańska</item>
+        <item>Samborska</item>
+        <item>Samolotowa</item>
+        <item>Samotna</item>
+        <item>Samotworska</item>
+        <item>Sanocka</item>
+        <item>Saperów</item>
+        <item>Sarajewska</item>
+        <item>Sarbinowska</item>
+        <item>Sarnia</item>
+        <item>Sasankowa</item>
+        <item>Sądowa</item>
+        <item>Sąsiedzka</item>
+        <item>Schneidera</item>
+        <item>Schneidera</item>
+        <item>Schuberta</item>
+        <item>Seledynowa</item>
+        <item>Semaforowa</item>
+        <item>Sempołowskiej</item>
+        <item>Sempołowskiej</item>
+        <item>Serbska</item>
+        <item>Sernicka</item>
+        <item>Serowarska</item>
+        <item>Serowarska</item>
+        <item>Setna</item>
+        <item>Sewastopolska</item>
+        <item>Sezamkowa</item>
+        <item>Sępa-Szarzyńskiego</item>
+        <item>Sępia</item>
+        <item>Siatkarzy</item>
+        <item>Siedlecka</item>
+        <item>Siedliczan</item>
+        <item>Sielska</item>
+        <item>Siemieńskiego</item>
+        <item>Siemiradzkiego</item>
+        <item>Sienkiewicza</item>
+        <item>Sienna</item>
+        <item>Sieradzka</item>
+        <item>Sierakowskiego</item>
+        <item>Sieroszowicka</item>
+        <item>Siewców</item>
+        <item>Siewierska</item>
+        <item>Siewna</item>
+        <item>Sikorcza</item>
+        <item>Sikorskiego</item>
+        <item>Siostrzana</item>
+        <item>Skałeczna</item>
+        <item>Skarbka</item>
+        <item>Skarbowców</item>
+        <item>Skarbu Zakrzowskiego</item>
+        <item>Skargi</item>
+        <item>Skarżyńskiego</item>
+        <item>Skibińskiego</item>
+        <item>Skibińskiego</item>
+        <item>Skibowa</item>
+        <item>Skierniewicka</item>
+        <item>Składowa</item>
+        <item>Skoczna</item>
+        <item>Skoczylasa</item>
+        <item>Skoczylasa</item>
+        <item>Skopijska</item>
+        <item>Skoroszowska</item>
+        <item>Skrajna</item>
+        <item>Skrzetuskiego</item>
+        <item>Skrzydlata</item>
+        <item>Skwer Ludzi ze Znakiem "P"</item>
+        <item>Skwer Obrońców Helu</item>
+        <item>Skwer Pionierów Wrocławskich</item>
+        <item>Skwer Powstańców Warszawskich</item>
+        <item>Skwer Profesora Kazimierza Idaszewskiego</item>
+        <item>Skwer Ruchu Oporu "Olimp"</item>
+        <item>Skwer Skaczącej Gwiazdy</item>
+        <item>Skwer Sybiraków</item>
+        <item>Skwer Zbyszka Cybulskiego</item>
+        <item>Skwer Zygmunta Krasińskiego</item>
+        <item>Skwerowa</item>
+        <item>Skwierzyńska</item>
+        <item>Skwierzyńska</item>
+        <item>Sławka</item>
+        <item>Słodowa</item>
+        <item>Słomiana</item>
+        <item>Słoneczna</item>
+        <item>Słonecznikowa</item>
+        <item>Słoneczny</item>
+        <item>Słonimska</item>
+        <item>Słonimskiego</item>
+        <item>Słotna</item>
+        <item>Słowacka</item>
+        <item>Słowackiego</item>
+        <item>Słowackiego</item>
+        <item>Słowackiego</item>
+        <item>Słowiańska</item>
+        <item>Słowiański</item>
+        <item>Słowicza</item>
+        <item>Słowińców</item>
+        <item>Słubicka</item>
+        <item>Słupska</item>
+        <item>Smardzowska</item>
+        <item>Smętna</item>
+        <item>Smętna</item>
+        <item>Smocza</item>
+        <item>Smolecka</item>
+        <item>Smoleńskiego</item>
+        <item>Smolna</item>
+        <item>Smoluchowskiego</item>
+        <item>Snopkowa</item>
+        <item>Snycerska</item>
+        <item>Sobieszowska</item>
+        <item>Sobocińska</item>
+        <item>Sobótki</item>
+        <item>Sochaczewska</item>
+        <item>Sojowa</item>
+        <item>Sokalska</item>
+        <item>Sokola</item>
+        <item>Sokola</item>
+        <item>Sokolnicza</item>
+        <item>Solidarności</item>
+        <item>Solidarności Walczącej</item>
+        <item>Solińska</item>
+        <item>Solny</item>
+        <item>Solskiego</item>
+        <item>Sołtysia</item>
+        <item>Sołtysowicka</item>
+        <item>Sołtysowicka</item>
+        <item>Sopocka</item>
+        <item>Sorkwicka</item>
+        <item>Sosnkowskiego</item>
+        <item>Sosnowa</item>
+        <item>Sosnowiecka</item>
+        <item>Sowia</item>
+        <item>Sowińskiego</item>
+        <item>Spacerowa</item>
+        <item>Spadochroniarzy</item>
+        <item>Spawaczy</item>
+        <item>Spiska</item>
+        <item>Spiżowa</item>
+        <item>Spokojna</item>
+        <item>Społeczna</item>
+        <item>Sportowa</item>
+        <item>Spółdzielcza</item>
+        <item>Srebrnogórska</item>
+        <item>Srebrny</item>
+        <item>Srocza</item>
+        <item>Stabłowicka</item>
+        <item>Stabłowicka</item>
+        <item>Stachury</item>
+        <item>Stacyjna</item>
+        <item>Staffa</item>
+        <item>Stajenna</item>
+        <item>Stalowa</item>
+        <item>Stalowowolska</item>
+        <item>Stanisława Leszczyńskiego</item>
+        <item>Stanisławowska</item>
+        <item>Stanisławskiego</item>
+        <item>Stanki</item>
+        <item>Stanów Zjednoczonych</item>
+        <item>Stargardzka</item>
+        <item>Starobielawska</item>
+        <item>Starodębowa</item>
+        <item>Starodworska</item>
+        <item>Starogajowa</item>
+        <item>Starograniczna</item>
+        <item>Starogroblowa</item>
+        <item>Staroleska</item>
+        <item>Staromłyńska</item>
+        <item>Staropolska</item>
+        <item>Starościńska</item>
+        <item>Starzyńskiego</item>
+        <item>Staszica</item>
+        <item>Staszica</item>
+        <item>Stawowa</item>
+        <item>Stefana Batorego</item>
+        <item>Stefczyka</item>
+        <item>Stefki</item>
+        <item>Stein</item>
+        <item>Steinhausa</item>
+        <item>Steinmetza</item>
+        <item>Sterowcowa</item>
+        <item>Stobrawska</item>
+        <item>Stoczniowa</item>
+        <item>Stodolna</item>
+        <item>Stokrotkowa</item>
+        <item>Stolarska</item>
+        <item>Stopnicka</item>
+        <item>Storczykowa</item>
+        <item>Stoszowska</item>
+        <item>Strachocińska</item>
+        <item>Strachocińska</item>
+        <item>Strachowicka</item>
+        <item>Strachowicka</item>
+        <item>Strachowskiego</item>
+        <item>Strachowskiego</item>
+        <item>Stradomska</item>
+        <item>Straussa</item>
+        <item>Strażacka</item>
+        <item>Strażnicza</item>
+        <item>Strączkowa</item>
+        <item>Stroma</item>
+        <item>Strońska</item>
+        <item>Struga</item>
+        <item>Strumykowa</item>
+        <item>Stryjska</item>
+        <item>Strzeblowska</item>
+        <item>Strzegomska</item>
+        <item>Strzegomska</item>
+        <item>Strzegomska</item>
+        <item>Strzegomska</item>
+        <item>Strzegomski</item>
+        <item>Strzelecka</item>
+        <item>Strzelecki</item>
+        <item>Studzienna</item>
+        <item>Stwosza</item>
+        <item>Stysia</item>
+        <item>Sucha</item>
+        <item>Suchardy</item>
+        <item>Sucharskiego</item>
+        <item>Sudecka</item>
+        <item>Sudecka</item>
+        <item>Sukielicka</item>
+        <item>Sukiennice</item>
+        <item>Sulejowska</item>
+        <item>Sulistrowska</item>
+        <item>Sulmierzycka</item>
+        <item>Sulmierzycka</item>
+        <item>Sułowska</item>
+        <item>Supińskiego</item>
+        <item>Suskiego</item>
+        <item>Suwalska</item>
+        <item>Swobodna</item>
+        <item>Swojczycka</item>
+        <item>Sycowska</item>
+        <item>Sygnałowa</item>
+        <item>Syjamska</item>
+        <item>Synów Pułku</item>
+        <item>Syrokomli</item>
+        <item>Szachistów</item>
+        <item>Szafera</item>
+        <item>Szafranowa</item>
+        <item>Szajnochy</item>
+        <item>Szałwiowa</item>
+        <item>Szanieckiego</item>
+        <item>Szara</item>
+        <item>Szarotkowa</item>
+        <item>Szarskiego</item>
+        <item>Szarugi</item>
+        <item>Szarych Szeregów</item>
+        <item>Szczawiowa</item>
+        <item>Szczawiowa</item>
+        <item>Szczecińska</item>
+        <item>Szczepanowska</item>
+        <item>Szczepińska</item>
+        <item>Szczepiński</item>
+        <item>Szczepowa</item>
+        <item>Szczęśliwa</item>
+        <item>Szczęśliwa</item>
+        <item>Szczycieńska</item>
+        <item>Szczygla</item>
+        <item>Szczyrki</item>
+        <item>Szczytnicka</item>
+        <item>Szewczenki</item>
+        <item>Szewska</item>
+        <item>Szkarłatna</item>
+        <item>Szklarska</item>
+        <item>Szkocka</item>
+        <item>Szkolna</item>
+        <item>Szkutnicza</item>
+        <item>Szlifierska</item>
+        <item>Szmaragdowa</item>
+        <item>Szniolisa</item>
+        <item>Szolc-Rogozińskiego</item>
+        <item>Szpacza</item>
+        <item>Szparagowa</item>
+        <item>Szpilkowa</item>
+        <item>Szpitalna</item>
+        <item>Szprotawska</item>
+        <item>Szramka</item>
+        <item>Szronowa</item>
+        <item>Sztabowa</item>
+        <item>Sztabowa</item>
+        <item>Szwajcarska</item>
+        <item>Szwedzka</item>
+        <item>Szwoleżerska</item>
+        <item>Szybka</item>
+        <item>Szybowcowa</item>
+        <item>Szymanowskiego</item>
+        <item>Ściegiennego</item>
+        <item>Ścinawska</item>
+        <item>Ślazowa</item>
+        <item>Ślązaka</item>
+        <item>Ślebodzińskiego</item>
+        <item>Ślepa</item>
+        <item>Ślewińskiego</item>
+        <item>Ślęzoujście</item>
+        <item>Ślężańska</item>
+        <item>Ślężna</item>
+        <item>Ślężna</item>
+        <item>Ślężna</item>
+        <item>Śliczna</item>
+        <item>Śliwkowa</item>
+        <item>Śliwowa</item>
+        <item>Ślusarska</item>
+        <item>Śmigła</item>
+        <item>Śniadeckich</item>
+        <item>Śniegockiego</item>
+        <item>Śnieżna</item>
+        <item>Średzka</item>
+        <item>Śremska</item>
+        <item>Środkowa</item>
+        <item>Śródleśna</item>
+        <item>Śrubowa</item>
+        <item>Śrutowa</item>
+        <item>św. Ducha</item>
+        <item>św. Trójcy</item>
+        <item>Świątnicka</item>
+        <item>Świątnicka</item>
+        <item>Świątnicka</item>
+        <item>Świdnicka</item>
+        <item>Świdrowa</item>
+        <item>Świebodzka</item>
+        <item>Świeradowska</item>
+        <item>Świerkowa</item>
+        <item>Świeża</item>
+        <item>Świętochłowicka</item>
+        <item>Świętochowskiego</item>
+        <item>Świętojański</item>
+        <item>Świętokrzyska</item>
+        <item>Świnoujska</item>
+        <item>Świstackiego</item>
+        <item>Świt</item>
+        <item>Świt</item>
+        <item>Tallińska</item>
+        <item>Tamka</item>
+        <item>Tańskiego</item>
+        <item>Tapicerska</item>
+        <item>Tarninowa</item>
+        <item>Tarnobrzeska</item>
+        <item>Tarnogajska</item>
+        <item>Tarnogórska</item>
+        <item>Tarnopolska</item>
+        <item>Tarnowska</item>
+        <item>Taszyckiego</item>
+        <item>Tatarakowa</item>
+        <item>Tatarska</item>
+        <item>Tatrzańska</item>
+        <item>Tczewska</item>
+        <item>Teatralna</item>
+        <item>Teatralny</item>
+        <item>Tenisowa</item>
+        <item>Terenowa</item>
+        <item>Tęczowa</item>
+        <item>Tkacka</item>
+        <item>Tokarska</item>
+        <item>Tolkmicka</item>
+        <item>Tomasza Pierwszego</item>
+        <item>Tomaszowska</item>
+        <item>Topolowa</item>
+        <item>Torfowa</item>
+        <item>Torowa</item>
+        <item>Torowa</item>
+        <item>Toruńska</item>
+        <item>Towarowa</item>
+        <item>Towarowa</item>
+        <item>Trakcyjna</item>
+        <item>Traktatowa</item>
+        <item>Traktorowa</item>
+        <item>Tramwajowa</item>
+        <item>Traugutta</item>
+        <item>Trawna</item>
+        <item>Trawowa</item>
+        <item>Trentowskiego</item>
+        <item>Treski</item>
+        <item>Trójkątna</item>
+        <item>Truskawkowa</item>
+        <item>Trwała</item>
+        <item>Trzebiatowskiego</item>
+        <item>Trzebnicka</item>
+        <item>Trzebnicka</item>
+        <item>Trzebowiańska</item>
+        <item>Trzemeska</item>
+        <item>Trzmielowicka</item>
+        <item>Trzmielowicka</item>
+        <item>Trzmielowicka</item>
+        <item>Tulipanowa</item>
+        <item>Tunelowa</item>
+        <item>Turecka</item>
+        <item>Turkusowa</item>
+        <item>Turniejowa</item>
+        <item>Turoszowska</item>
+        <item>Turystyczna</item>
+        <item>Tuwima</item>
+        <item>Twarda</item>
+        <item>Twardogórska</item>
+        <item>Tybetańska</item>
+        <item>Tykocińska</item>
+        <item>Tylna</item>
+        <item>Tymiankowa</item>
+        <item>Tyniecka</item>
+        <item>Tyrmanda</item>
+        <item>Tyska</item>
+        <item>Ubocze</item>
+        <item>Uciechowska</item>
+        <item>Uczniowska</item>
+        <item>Udzieli</item>
+        <item>Ujejskiego</item>
+        <item>Ukraińska</item>
+        <item>Ukryta</item>
+        <item>Ulanowskiego</item>
+        <item>Ulowa</item>
+        <item>Ułańska</item>
+        <item>Uniwersytecka</item>
+        <item>Uniwersytecki</item>
+        <item>Unruga</item>
+        <item>Upalna</item>
+        <item>Uraska</item>
+        <item>Urbanowicza</item>
+        <item>Urbańskiego</item>
+        <item>Ustronie</item>
+        <item>Uznamska</item>
+        <item>Uznańskiego</item>
+        <item>Vinci</item>
+        <item>Vivaldiego</item>
+        <item>Wadowicka</item>
+        <item>Waflowa</item>
+        <item>Wagnera</item>
+        <item>Wagonowa</item>
+        <item>Walecznych</item>
+        <item>Walentynowicz</item>
+        <item>Waligórskiego</item>
+        <item>Wallenberga</item>
+        <item>Wallenroda</item>
+        <item>Walońska</item>
+        <item>Wałbrzyska</item>
+        <item>Wałowa</item>
+        <item>Wambierzycka</item>
+        <item>Wandy</item>
+        <item>Waniliowa</item>
+        <item>Wańkowicza</item>
+        <item>Wapienna</item>
+        <item>Warciańska</item>
+        <item>Wardzyńskich</item>
+        <item>Warmińska</item>
+        <item>Warszawska</item>
+        <item>Warsztatowa</item>
+        <item>Wartka</item>
+        <item>Waryńskiego</item>
+        <item>Warzywnicza</item>
+        <item>Watowa</item>
+        <item>Wawrzyniaka</item>
+        <item>Wąska</item>
+        <item>Wąsowicza</item>
+        <item>Weigla</item>
+        <item>Wejherowska</item>
+        <item>Wełniana</item>
+        <item>Wereszyckiego</item>
+        <item>Wesoła</item>
+        <item>Wesołowskiego</item>
+        <item>Westerplatte</item>
+        <item>Wędkarzy</item>
+        <item>Wędrowców</item>
+        <item>Węgierska</item>
+        <item>Węgoborska</item>
+        <item>Wiaduktowa</item>
+        <item>Wiązowa</item>
+        <item>Widawska</item>
+        <item>Widawska</item>
+        <item>Widłakowa</item>
+        <item>Widna</item>
+        <item>Widok</item>
+        <item>Wieczorna</item>
+        <item>Wieczysta</item>
+        <item>Wiedeńska</item>
+        <item>Wiejska</item>
+        <item>Wieletów</item>
+        <item>Wielka</item>
+        <item>Wielkopolska</item>
+        <item>Wieluńska</item>
+        <item>Wieniawskiego</item>
+        <item>Wieruszowska</item>
+        <item>Wierzbowa</item>
+        <item>Wierzchowicka</item>
+        <item>Wierzchowicka</item>
+        <item>Wierzyńskiego</item>
+        <item>Wieśniacza</item>
+        <item>Wietnamska</item>
+        <item>Wietrzna</item>
+        <item>Więckowskiego</item>
+        <item>Więzienna</item>
+        <item>Wilanowska</item>
+        <item>Wilcza</item>
+        <item>Wilczkowska</item>
+        <item>Wilczycka</item>
+        <item>Wileńska</item>
+        <item>Wilgotna</item>
+        <item>Wilgowa</item>
+        <item>Wilkszyńska</item>
+        <item>Wincentego</item>
+        <item>Winogronowa</item>
+        <item>Wińska</item>
+        <item>Wiosenna</item>
+        <item>Wiślany</item>
+        <item>Wiślańska</item>
+        <item>Wiśniowa</item>
+        <item>Wiśniowa</item>
+        <item>Wita</item>
+        <item>Witebska</item>
+        <item>Witelona</item>
+        <item>Witkowska</item>
+        <item>Witolda</item>
+        <item>Witosa</item>
+        <item>Wittek</item>
+        <item>Wittiga</item>
+        <item>Wiwulskiego</item>
+        <item>Włada</item>
+        <item>Władysława Jagiełły</item>
+        <item>Władysława Łokietka</item>
+        <item>Włodarska</item>
+        <item>Włodkowica</item>
+        <item>Włościańska</item>
+        <item>Włościańska</item>
+        <item>Wodna</item>
+        <item>Wodzisławska</item>
+        <item>Wojaczka</item>
+        <item>Wojanowska</item>
+        <item>Wojciecha z Brudzewa</item>
+        <item>Wojnowicka</item>
+        <item>Wojrowicka</item>
+        <item>Wojska Polskiego</item>
+        <item>Wojska Polskiego</item>
+        <item>Wojszycka</item>
+        <item>Wojtkiewicza</item>
+        <item>Wojtkiewicza</item>
+        <item>Wolbromska</item>
+        <item>Wolfkego</item>
+        <item>Wolinian</item>
+        <item>Wolności</item>
+        <item>Wolska</item>
+        <item>Wołczyńska</item>
+        <item>Wołgogradzka</item>
+        <item>Wołodyjowskiego</item>
+        <item>Wołodyjowskiej</item>
+        <item>Wołowska</item>
+        <item>Wołyńska</item>
+        <item>Worcella</item>
+        <item>Woronowicka</item>
+        <item>Woskowa</item>
+        <item>Woźnicza</item>
+        <item>Wójtowska</item>
+        <item>Wrocławczyka</item>
+        <item>Wronia</item>
+        <item>Wróbla</item>
+        <item>Wróblewskiego</item>
+        <item>Wróblewskiego</item>
+        <item>Wróblewskiego</item>
+        <item>Wróblowicka</item>
+        <item>Wrzosowa</item>
+        <item>Wschodnia</item>
+        <item>Wschowska</item>
+        <item>Wspólna</item>
+        <item>Wspólna</item>
+        <item>Wszystkich Świętych</item>
+        <item>Wybickiego</item>
+        <item>Wyboista</item>
+        <item>Wyboista</item>
+        <item>Wyczółkowskiego</item>
+        <item>Wygodna</item>
+        <item>Wykładowa</item>
+        <item>Wykładowa</item>
+        <item>Wylotowa</item>
+        <item>Wynalazców</item>
+        <item>Wysłoucha</item>
+        <item>Wysockiego</item>
+        <item>Wysoka</item>
+        <item>Wyspiańskiego</item>
+        <item>Wystawowa</item>
+        <item>Wyszyńskiego</item>
+        <item>Wyścigowa</item>
+        <item>Wyzwolenia</item>
+        <item>Zabłocie</item>
+        <item>Zabrodzka</item>
+        <item>Zabrzańska</item>
+        <item>Zachodnia</item>
+        <item>Zagaje</item>
+        <item>Zagajnikowa</item>
+        <item>Zagłębiowska</item>
+        <item>Zagłoby</item>
+        <item>Zagony</item>
+        <item>Zagrodnicza</item>
+        <item>Zagrzebska</item>
+        <item>Zajazdowa</item>
+        <item>Zajączkowska</item>
+        <item>Zajęcza</item>
+        <item>Zaka</item>
+        <item>Zaka</item>
+        <item>Zakładowa</item>
+        <item>Zakopiańska</item>
+        <item>Zakrzowska</item>
+        <item>Zaleskiego</item>
+        <item>Zalewowa</item>
+        <item>Zalipie</item>
+        <item>Załęże</item>
+        <item>Zamenhofa</item>
+        <item>Zamkowa</item>
+        <item>Zamojska</item>
+        <item>Zamoyskiego</item>
+        <item>Zaolziańska</item>
+        <item>Zapaśnicza</item>
+        <item>Zapolskiej</item>
+        <item>Zaporoska</item>
+        <item>Zaporoska</item>
+        <item>Zaporoska</item>
+        <item>Zapotocze</item>
+        <item>Zarembowicza</item>
+        <item>Zaruskiego</item>
+        <item>Zarzecze</item>
+        <item>Zastępowa</item>
+        <item>Zaściankowa</item>
+        <item>Zaściankowa</item>
+        <item>Zatorska</item>
+        <item>Zaułek Browarny</item>
+        <item>Zaułek Ferdynanda Lassalla</item>
+        <item>Zaułek Jerzego Grotowskiego</item>
+        <item>Zaułek Ossolińskich</item>
+        <item>Zaułek Rogoziński</item>
+        <item>Zaułek Wolski</item>
+        <item>Zawalna</item>
+        <item>Zawierciańska</item>
+        <item>Zawiszy Czarnego</item>
+        <item>Zawońska</item>
+        <item>Zaziębie</item>
+        <item>Ząbkowicka</item>
+        <item>Zbarska</item>
+        <item>Zbożowa</item>
+        <item>Zdrojowa</item>
+        <item>Zdrowa</item>
+        <item>Zduńska</item>
+        <item>Zebrzydowska</item>
+        <item>Zefirowa</item>
+        <item>Zegadłowicza</item>
+        <item>Zegarmistrzowska</item>
+        <item>Zelenaya</item>
+        <item>Zelwerowicza</item>
+        <item>Zemska</item>
+        <item>Zgodna</item>
+        <item>Zgody</item>
+        <item>Zgorzelecka</item>
+        <item>Zielarska</item>
+        <item>Zielińskiego</item>
+        <item>Zielińskiego</item>
+        <item>Zielna</item>
+        <item>Zielona</item>
+        <item>Zielonego Dębu</item>
+        <item>Zielonogórska</item>
+        <item>Ziemniaczana</item>
+        <item>Ziemowita</item>
+        <item>Ziębicka</item>
+        <item>Zimowa</item>
+        <item>Złocieniowa</item>
+        <item>Złota</item>
+        <item>Złotej Lilii</item>
+        <item>Złotnicka</item>
+        <item>Złotoryjska</item>
+        <item>Złotostocka</item>
+        <item>Złotowska</item>
+        <item>Zmorskiego</item>
+        <item>Zoli</item>
+        <item>Zoologiczny</item>
+        <item>Zuchowa</item>
+        <item>Zwiadowców</item>
+        <item>Zwrotnicza</item>
+        <item>Zwycięska</item>
+        <item>Zyndrama z Maszkowic</item>
+        <item>Źródlana</item>
+        <item>Żabia Grobla</item>
+        <item>Żabia Ścieżka</item>
+        <item>Żagańska</item>
+        <item>Żarska</item>
+        <item>Żegiestowska</item>
+        <item>Żeglarska</item>
+        <item>Żelazna</item>
+        <item>Żelazna</item>
+        <item>Żeńców</item>
+        <item>Żernicka</item>
+        <item>Żernicka</item>
+        <item>Żernicka</item>
+        <item>Żeromskiego</item>
+        <item>Żiżki</item>
+        <item>Żmichowskiej</item>
+        <item>Żmichowskiej</item>
+        <item>Żmigrodzka</item>
+        <item>Żmigrodzka</item>
+        <item>Żmigrodzka</item>
+        <item>Żmudzka</item>
+        <item>Żniwna</item>
+        <item>Żołnierska</item>
+        <item>Żółkiewskiego</item>
+        <item>Żółta</item>
+        <item>Żubrza</item>
+        <item>Żurawia</item>
+        <item>Źurawinowa</item>
+        <item>Żużlowców</item>
+        <item>Żwawa</item>
+        <item>Żwirki i Wigury</item>
+        <item>Żwirki i Wigury Zachodnia</item>
+        <item>Żwirowa</item>
+        <item>Żwirowa</item>
+        <item>Życzliwa</item>
+        <item>Żytnia</item>
+        <item>Żytomierska</item>
+        <item>Żywiecka</item>
+        <item>Żywopłotowa</item>
+    </string-array>
+</resources>
